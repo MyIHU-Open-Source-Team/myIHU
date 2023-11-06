@@ -12,7 +12,7 @@ export default {
     qu5: "Is the app free?",
     ans5: "The app is available free of charge to all students and staff of the university.",
     qu6: "Who created the app?",
-    ans6: "The app was created by the Open Source Team of the University of Macedonia.",
+    ans6: "The app was created by the Open Source Team of the University of Macedonia and modified by the myIHU team.",
     qu7: "Where are my personal data stored?",
     ans7: "Your personal data are not stored on any university server. The only data stored is on your device,and is the department you will choose, when you log in to the app, so that you can be presented with the data that concern your department.",
 };

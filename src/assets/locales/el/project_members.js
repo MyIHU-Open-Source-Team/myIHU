@@ -8,4 +8,5 @@ export default {
     omiliadis:"Σωκράτης Ομιλιάδης",
     patsoyras:"Χρήστος Φανούριος Πατσούρας",
     fakidis:"Γεώργιος Φακίδης",
+    bandisast:"Αστέριος Μπαντής"
 };

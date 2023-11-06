@@ -1,24 +1,22 @@
 export default {
   //constants.js --> offices
   offices: "Offices",
-  liaison_office: "Liason Office",
+  liaison_office: "Liaison Office",
   internship_office: "Internship Office",
   alumni_office: "Alumni Office",
   erasmus_office: "Erasmus Office",
-  physical_education_office: "Physical Education Office",
+  qa_office: "Quality Assurance Office",
   environmental_management_office: "Environmental Policy Office",
   //constants.js --> Student Teams
   student_clubs: "Student Clubs",
-  uom_students_club: "UoM Students Club",
+  uom_students_club: "IHU Students Club",
   erasmus_student_club: "Erasmus Student Club",
-  cybersecurity_student_club: "Cybersecurity Club of University of Macedonia",
-  open_source_club: "Open Source UoM",
+  open_source_club: "Open Source Club",
   //constants.js --> Other Services
   ethics_research_committee: "Committee on Research Ethics and Integrity",
   student_advocate: "Student Advocate",
   gender_eq_committee: "Gender Equality Committee",
-  student_consulting_support_center: "Student Consulting and Support Center",
-  accessibility_unit: "UoM Accessibility Committee",
+  student_consulting_support_center: "Student Care",
   theater_workshop: "",
-  uni_publications: "University of Macedonia Publications",
+  uni_publications: "IHU Publications",
 };

@@ -8,5 +8,5 @@ export default {
     omiliadis:"Socrates Omiliadis",
     patsoyras:"Christos Fanourios Patsoyras",
     fakidis:"Georgios Fakidis",
-
+    bandisast: "Aster Bandis"
 };
