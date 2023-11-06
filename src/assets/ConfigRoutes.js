@@ -59,7 +59,7 @@ import GraduationPage from "../pages/GraduationPage";
 import LibraryPage from "../pages/LibraryPage";
 import FirstYearInfoPage from "../pages/FirstYearInfoPage";
 import SchedulePage from "../pages/SchedulePage";
-import MapPage from "../pages/MapPage";
+//import MapPage from "../pages/MapPage";
 import { FaUniversity } from "react-icons/fa";
 import i18n from "../i18n";
 export const Categories = [
@@ -161,7 +161,7 @@ export const Categories = [
     requireSelection: false,
     position: 9,
     hide: false,
-    pageToDisplay: <MapPage />,
+    pageToDisplay: null,
   },
   {
     title: i18n.t("foititiki_merimna"),

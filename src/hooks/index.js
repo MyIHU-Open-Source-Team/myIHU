@@ -13,7 +13,7 @@ import { useSocialMediaURLs } from './useSocialMediaURLs';
 import { useAnnouncementLink } from './useAnnouncementLink';
 import { useScheduleData } from './useScheduleData';
 import { useDepartments } from './useDepartments';
-import { useMapData } from './useMapData';
+//import { useMapData } from './useMapData';
 export {
     useGuidesMdData,
     useScrollToTopOnLoad,
@@ -30,5 +30,5 @@ export {
     useAnnouncementLink,
     useScheduleData,
     useDepartments,
-    useMapData
+//    useMapData
 }
