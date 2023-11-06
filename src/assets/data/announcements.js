@@ -42,33 +42,10 @@ import { DEPARTMENT_CODES } from "./DepNames";
 
 export const AnnouncementsData = [
   {
-    code: DEPARTMENT_CODES.BALKAN_STUDIES,
-    link: "https://www.uom.gr/bso/ta-nea-mas",
+    code: DEPARTMENT_CODES.INDUSTRIAL_ENGINEERING_AND_MANAGEMENT,
+    link: "https://iem.ihu.gr/anakoinwseis.php",
 
   },
-  {
-    code: DEPARTMENT_CODES.EUROPEAN_STUDIES,
-    link: "https://www.uom.gr/ies#undefined1",
-  },
-  {
-    code: DEPARTMENT_CODES.EDUCATION,
-    link: "https://www.uom.gr/esp",
-  }, {
-    code: DEPARTMENT_CODES.INFORMATICS,
-    link: "https://www.uom.gr/dai/ta-nea-toy-tmhmatos",
-  }, {
-    code: DEPARTMENT_CODES.BUSINESS_ADMINISTRATION,
-    link: "https://www.uom.gr/ba",
-  }, {
-    code: DEPARTMENT_CODES.ECONOMICS,
-    link: "https://www.uom.gr/eco#undefined1",
-  }, {
-    code: DEPARTMENT_CODES.FINANCE,
-    link: "https://www.uom.gr/fin",
-  }, {
-    code: DEPARTMENT_CODES.MUSIC,
-    link: "https://www.uom.gr/msa",
-  }
 
 ]
 
