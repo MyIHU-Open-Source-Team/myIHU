@@ -39,7 +39,7 @@
 import { Box, Image, Text, Accordion } from "@chakra-ui/react";
 import membersData from "../assets/data/projectMembers";
 import ProjectMembersCard from "../components/ProjectMembersCard";
-import UoMLogo from "../assets/myUOMLogo.png";
+import IHULogo from "../assets/myIHULogo.png";
 import { SocialIcon } from "react-social-icons";
 import i18n from "../i18n";
 import { useSocialMediaURLs } from "../hooks";
@@ -52,7 +52,7 @@ function AboutSettingsPage() {
       fontFamily="Syne"
       fontSize={{ sm: 11.95, md: 16, lg: 26, xl: 32 }}
     >
-      <Image src={UoMLogo} width="200px" height="200px" />
+      <Image src={IHULogo} width="200px" height="200px" />
       <Text marginTop="1em" fontSize={{ sm: 26, md: 30, lg: 34, xl: 38 }}>
         {i18n.t("about_title")}
         <br />
