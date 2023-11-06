@@ -36,25 +36,25 @@
 
 */
 import registration_application from "./guides/el/registration_application.md";
-import uom_register from "./guides/el/uom_register.md";
+import ihu_register from "./guides/el/ihu_register.md";
 import institutional_account from "./guides/el/institutional_account.md";
 import academic_email_activation from "./guides/el/academic_email_activation.md";
 import academic_id from "./guides/el/academic_id.md";
 import eudoxus_books from "./guides/el/eudoxus_books.md";
 import library_registration from "./guides/el/library_registration.md";
-import open_eclass from "./guides/el/open_eclass.md";
+import moodle from "./guides/el/moodle.md";
 import boarding from "./guides/el/boarding.md";
 import housing from "./guides/el/housing.md";
 import healthcare from "./guides/el/healthcare.md";
 
 import en_registration_application from "./guides/en/registration_application.md";
-import en_uom_register from "./guides/en/uom_register.md";
+import en_ihu_register from "./guides/en/ihu_register.md";
 import en_institutional_account from "./guides/en/institutional_account.md";
 import en_academic_email_activation from "./guides/en/academic_email_activation.md";
 import en_academic_id from "./guides/en/academic_id.md";
 import en_eudoxus_books from "./guides/en/eudoxus_books.md";
 import en_library_registration from "./guides/en/library_registration.md";
-import en_open_eclass from "./guides/en/open_eclass.md";
+import en_moodle from "./guides/en/moodle.md";
 import en_boarding from "./guides/en/boarding.md";
 import en_housing from "./guides/en/housing.md";
 import en_healthcare from "./guides/en/healthcare.md";
@@ -69,8 +69,8 @@ const guides = {
         guidePath: registration_application,
       },
       {
-        text: i18n.t("uom_register_title"),
-        guidePath: uom_register,
+        text: i18n.t("ihu_register_title"),
+        guidePath: ihu_register,
       },
       {
         text: i18n.t("institutional_account_title"),
@@ -89,7 +89,7 @@ const guides = {
         text: i18n.t("library_registration_title"),
         guidePath: library_registration,
       },
-      { text: i18n.t("open_eclass_title"), guidePath: open_eclass },
+      { text: i18n.t("moodle_title"), guidePath: moodle },
       { text: i18n.t("boarding_title"), guidePath: boarding },
       { text: i18n.t("housing_title"), guidePath: housing },
       { text: i18n.t("healthcare_title"), guidePath: healthcare },
@@ -100,8 +100,8 @@ const guides = {
       text: i18n.t("registration_application_title"),
       guidePath: en_registration_application,
     }, {
-      text: i18n.t("uom_register_title"),
-      guidePath: en_uom_register,
+      text: i18n.t("ihu_register_title"),
+      guidePath: en_ihu_register,
 
     }, {
       text: i18n.t("institutional_account_title"),
@@ -121,8 +121,8 @@ const guides = {
       text: i18n.t("library_registration_title"),
       guidePath: en_library_registration,
     }, {
-      text: i18n.t("open_eclass_title"),
-      guidePath: en_open_eclass,
+      text: i18n.t("moodle_title"),
+      guidePath: en_moodle,
     }, {
       text: i18n.t("boarding_title"),
       guidePath: en_boarding,
