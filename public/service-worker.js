@@ -37,7 +37,7 @@
 */
 
 self.addEventListener('install', (event) => {
-  const cacheKey = 'myUoMCache_V1';
+  const cacheKey = 'myIHUCache_V1';
 
   event.waitUntil(caches.open(cacheKey).then((cache) => {
     // Add all the assets in the array to the 'MyFancyCacheName_v1'
