@@ -38,41 +38,13 @@
 import i18n from "../../i18n";
 
 export const DEPARTMENT_CODES = {
-  INFORMATICS: "dai",
-  ECONOMICS: "eco",
-  BUSINESS_ADMINISTRATION: "ba",
-  ACCOUNTING_FINANCE: "fin",
-  EUROPEAN_STUDIES: "ies",
-  BALKAN_STUDIES: "bso",
-  MUSIC: "msa",
-  EDUCATION: "esp",
+  INDUSTRIAL_ENGINEERING_AND_MANAGEMENT: "iem",
 }
 export const DEPARTMENTS = [
   {
-    code: DEPARTMENT_CODES.BALKAN_STUDIES,
-    name: i18n.t("bso_department"),
-  }, {
-    code: DEPARTMENT_CODES.EUROPEAN_STUDIES,
-    name: i18n.t("ies_department"),
-  }, {
-    code: DEPARTMENT_CODES.BUSINESS_ADMINISTRATION,
-    name: i18n.t("ba_department"),
-  }, {
-    code: DEPARTMENT_CODES.ACCOUNTING_FINANCE,
-    name: i18n.t("fin_department"),
-  }, {
-    code: DEPARTMENT_CODES.MUSIC,
-    name: i18n.t("msa_department"),
-  }, {
-    code: DEPARTMENT_CODES.EDUCATION,
-    name: i18n.t("esp_department"),
-  }, {
-    code: DEPARTMENT_CODES.ECONOMICS,
-    name: i18n.t("eco_department"),
-  }, {
-    code: DEPARTMENT_CODES.INFORMATICS,
-    name: i18n.t("dai_department"),
-  },
+    code: DEPARTMENT_CODES.INDUSTRIAL_ENGINEERING_AND_MANAGEMENT,
+    name: i18n.t("iem_department"),
+  }
 
 ];
 
