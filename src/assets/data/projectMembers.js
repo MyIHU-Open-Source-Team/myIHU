@@ -40,6 +40,12 @@ import i18n from "../../i18n"
 
 const projectMembers = [
   {
+    name: i18n.t("bandisast"),
+    socialMedia: "https://www.linkedin.com/in/bantis-asterios/",
+    email: null,
+    img: "https://bandisast.eu/files/images/me2.svg"
+  },
+  {
     name: i18n.t("apostolidis"),
     socialMedia: "https://www.linkedin.com/in/geoapos/",
     email: "mailto:geoapostolidis999@gmail.com",
