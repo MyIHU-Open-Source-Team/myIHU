@@ -6,18 +6,18 @@ export const RESTAURANT_HOURS = {
         minutes: 30,
       },
       end: {
-        hours: 15,
-        minutes: 30,
+        hours: 16,
+        minutes: 0,
       },
     },
     on_weekend: {
       start: {
-        hours: 13,
-        minutes: 0,
+        hours: 12,
+        minutes: 30,
       },
       end: {
-        hours: 15,
-        minutes: 30,
+        hours: 16,
+        minutes: 0,
       },
     },
   },
@@ -28,7 +28,7 @@ export const RESTAURANT_HOURS = {
         minutes: 0,
       },
       end: {
-        hours: 20,
+        hours: 21,
         minutes: 0,
       },
     },
@@ -38,7 +38,7 @@ export const RESTAURANT_HOURS = {
         minutes: 0,
       },
       end: {
-        hours: 20,
+        hours: 21,
         minutes: 0,
       },
     },
@@ -46,8 +46,8 @@ export const RESTAURANT_HOURS = {
   for_breakfast: {
     on_weekdays: {
       start: {
-        hours: 8,
-        minutes: 0,
+        hours: 7,
+        minutes: 30,
       },
       end: {
         hours: 9,
@@ -56,8 +56,8 @@ export const RESTAURANT_HOURS = {
     },
     on_weekend: {
       start: {
-        hours: 8,
-        minutes: 0,
+        hours: 7,
+        minutes: 30,
       },
       end: {
         hours: 9,
@@ -69,14 +69,14 @@ export const RESTAURANT_HOURS = {
 
 export const schedule = {
   weekdays: {
-    breakfast: { start: "08:00", end: "09:30" },
-    lunch: { start: "12:30", end: "15:30" },
-    dinner: { start: "18:00", end: "20:00" },
+    breakfast: { start: "07:30", end: "09:30" },
+    lunch: { start: "12:30", end: "16:00" },
+    dinner: { start: "18:00", end: "21:00" },
   },
   weekendsAndHolidays: {
-    breakfast: { start: "08:00", end: "09:30" },
-    lunch: { start: "13:00", end: "15:30" },
-    dinner: { start: "18:00", end: "20:00" },
+    breakfast: { start: "07:30", end: "09:30" },
+    lunch: { start: "12:30", end: "16:00" },
+    dinner: { start: "18:00", end: "21:00" },
   },
 };
 
