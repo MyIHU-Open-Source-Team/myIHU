@@ -40,41 +40,13 @@
 
 import { DEPARTMENT_CODES } from "./DepNames";
 
-const Balkan_Studies_Link = "https://www.uom.gr/11587-anakoinosh-gia-dia-zoshs-orkomosia-toy-tmhmatos"
-const European_Studies_Link = "https://www.uom.gr/ies/orkomosies-apofoitoi"
-const Education_Link = "https://www.uom.gr/esp/orkomosies"
-const Informatics_Link = "https://www.uom.gr/dai/apofoithsh"
-const Finance_Link = "https://www.uom.gr/fin/enhmerosh?tagid=7435"
-const Business_Link = "https://www.uom.gr/ba/anakoinosh-ypobolhs-aithseon-orkomosias-noembrioy-2019"
-const Economics_Link = "https://www.uom.gr/eco/dieksagogh-neas-orkomosias"
-const Music = "https://www.uom.gr/msa/orkomosia-tmhmatos"
+const IEM_Link = "hhttps://www.iem.ihu.gr/orkom.php"
 
 
 
 export const GradData = [{
-  code: DEPARTMENT_CODES.BALKAN_STUDIES,
-  link: Balkan_Studies_Link
-}, {
-  code: DEPARTMENT_CODES.EUROPEAN_STUDIES,
-  link: European_Studies_Link
-}, {
-  code: DEPARTMENT_CODES.EDUCATION,
-  link: Education_Link
-}, {
-  code: DEPARTMENT_CODES.INFORMATICS,
-  link: Informatics_Link
-}, {
-  code: DEPARTMENT_CODES.FINANCE,
-  link: Finance_Link
-}, {
-  code: DEPARTMENT_CODES.BUSINESS,
-  link: Business_Link
-}, {
-  code: DEPARTMENT_CODES.ECONOMICS,
-  link: Economics_Link
-}, {
-  code: DEPARTMENT_CODES.MUSIC,
-  link: Music
+  code: DEPARTMENT_CODES.INDUSTRIAL_ENGINEERING_AND_MANAGEMENT,
+  link: IEM_Link
 }
 
 ]
