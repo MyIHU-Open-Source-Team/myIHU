@@ -75,9 +75,9 @@ export const Categories = [
     pageToDisplay: <SchedulePage semesterProp />,
   },
   {
-    title: "Open eClass",
+    title: "Moodle",
     iconSVG: <LaptopTextbookIcon />,
-    route: "https://openeclass.uom.gr/",
+    route: "https://moodle.teithe.gr",
     span: 1,
     isExternal: true,
     requireSelection: false,
@@ -97,9 +97,9 @@ export const Categories = [
     pageToDisplay: <RestaurantPage />,
   },
   {
-    title: "StudentsWeb",
+    title: "UniPortal",
     iconSVG: <StudentInPCIcon />,
-    route: "https://services.uom.gr/unistudent/login.asp",
+    route: "https://uniportal.ihu.gr",
     span: 1,
     isExternal: true,
     requireSelection: false,
@@ -166,7 +166,7 @@ export const Categories = [
   {
     title: i18n.t("foititiki_merimna"),
     iconSVG: <ManyPeopleIcon />,
-    route: "https://www.uom.gr/student-care",
+    route: "https://www.ihu.gr/foititiki-merimna",
     span: 1,
     isExternal: true,
     requireSelection: false,
