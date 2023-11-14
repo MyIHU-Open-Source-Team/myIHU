@@ -19,4 +19,5 @@ export default {
   student_consulting_support_center: "Student Care",
   theater_workshop: "",
   uni_publications: "IHU Publications",
+  autoros_student_club: "AutoROS Team"
 };

@@ -20,4 +20,5 @@ export default {
     "Φοιτητική Μέριμνα",
   theater_workshop: "",
   uni_publications: "Εκδόσεις Πανεπιστημίου Μακεδονίας",
+  autoros_student_club: "Ομάδα AutoROS"
 };
