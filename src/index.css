@@ -83,7 +83,7 @@ body.chakra-ui-light {
   fill: #fafcfe;
 }
 #myUOMLogo .d {
-  fill: #0050e0;
+  fill: #224364;
 }
 #myUOMLogo .e {
   fill: #eaae4e;
@@ -108,7 +108,7 @@ body.chakra-ui-light {
 }
 
 .markdown-body a {
-  color: #0050e0;
+  color: #224364;
   text-decoration: underline;
 }
 
@@ -116,7 +116,7 @@ body.chakra-ui-light {
   font-size: 1.75rem;
   margin-bottom: 1rem;
   font-weight: 700;
-  color: #0050e0;
+  color: #224364;
 }
 
 .markdown-body p {
@@ -130,7 +130,7 @@ body.chakra-ui-light {
 }
 
 .markdown-body blockquote {
-  border-left: 6px solid #0050e0;
+  border-left: 6px solid #224364;
   background-color: #e0ebff;
   padding: 15px;
   margin: 15px 0;

@@ -51,7 +51,7 @@ import { SocialIcon } from "react-social-icons";
 
 export default function ProjectMembersCard({ data }) {
   const SelectBorderColor = () => {
-    return useColorModeValue("#0050e0", "#f3f3f3");
+    return useColorModeValue("#224364", "#f3f3f3");
   };
 
   const SelectItemColor = () => {

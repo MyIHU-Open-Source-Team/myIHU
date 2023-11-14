@@ -58,7 +58,7 @@ export default function ServicesCard({ srv }) {
         borderRadius="20"
         border="2px"
         mb="1rem"
-        borderColor={useColorModeValue("#0050e0", "#f3f3f3")}
+        borderColor={useColorModeValue("#224364", "#f3f3f3")}
       >
         <Text
           w="100%"

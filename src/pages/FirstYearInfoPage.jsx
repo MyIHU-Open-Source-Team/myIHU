@@ -67,7 +67,7 @@ function ButtonListPage() {
                 {/* Last item should not have a divider on the bottom */}
                 {index !== firstYearGuidesTranslated.length - 1 && (
                   <Divider
-                    borderColor="#0050e0"
+                    borderColor="#224364"
                     _dark={{ borderColor: "#f3f3f3" }}
                     w="100%"
                     borderBottomWidth={2}

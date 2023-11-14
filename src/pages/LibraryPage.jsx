@@ -63,8 +63,8 @@ export default function LibraryPage() {
         <Box
           border="2px"
           borderRadius="1rem"
-          bg={useColorModeValue("#0050e0", "#f3f3f3")}
-          borderColor={useColorModeValue("#0050e0", "#f3f3f3")}
+          bg={useColorModeValue("#224364", "#f3f3f3")}
+          borderColor={useColorModeValue("#224364", "#f3f3f3")}
           marginBottom={{ base: "1rem", lg: "0" }}
           marginTop="1rem"
           px="1.5rem"
@@ -129,8 +129,8 @@ export default function LibraryPage() {
         <Box
           border="2px"
           borderRadius="1rem"
-          borderColor={useColorModeValue("#0050e0", "#f3f3f3")}
-          bg={useColorModeValue("#0050e0", "#f3f3f3")}
+          borderColor={useColorModeValue("#224364", "#f3f3f3")}
+          bg={useColorModeValue("#224364", "#f3f3f3")}
           marginBottom={{ base: "1rem", lg: "0" }}
           marginTop="1rem"
           display={"flex"}
@@ -180,13 +180,12 @@ export default function LibraryPage() {
                 {" "}
                 {LIBRARY_PHONE_LIST[2]} <br /> {LIBRARY_PHONE_LIST[3]}{" "}
               </Text>
-              <Text fontWeight="bold"> {i18n.t("imiorofos")} </Text>
             </Flex>
           </Flex>
         </Box>
       </Flex>
       <Button
-        color={useColorModeValue("#0050e0", "#f3f3f3")}
+        color={useColorModeValue("#224364", "#f3f3f3")}
         variant="ghost"
         fontWeight="bold"
         fontFamily="Syne"
@@ -204,14 +203,14 @@ export default function LibraryPage() {
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeWidth={1.5}
-                stroke={useColorModeValue("#0050e0", "#f3f3f3")}
+                stroke={useColorModeValue("#224364", "#f3f3f3")}
               />
               <path
                 d="M0.873535 1H8.91951V9"
                 strokeLinecap="round"
                 strokeLinejoin="round"
                 strokeWidth={1.5}
-                stroke={useColorModeValue("#0050e0", "#f3f3f3")}
+                stroke={useColorModeValue("#224364", "#f3f3f3")}
               />
             </svg>
           </Box>
