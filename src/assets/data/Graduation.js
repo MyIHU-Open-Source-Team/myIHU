@@ -40,7 +40,7 @@
 
 import { DEPARTMENT_CODES } from "./DepNames";
 
-const IEM_Link = "hhttps://www.iem.ihu.gr/orkom.php"
+const IEM_Link = "https://www.iem.ihu.gr/orkom.php"
 
 
 
