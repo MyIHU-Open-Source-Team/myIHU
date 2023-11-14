@@ -156,7 +156,7 @@ export default function ProfCard({ prof }) {
                 <ModalHeader>{i18n.t("mprostiniOpsi")}</ModalHeader>
                 <ModalCloseButton />
                 <ModalBody>
-                  <Image src="https://www.uom.gr/site/images/katopseis/exot_mprostini.jpg" />
+                  <Image src="" />
                 </ModalBody>
               </ModalContent>
             </Modal>

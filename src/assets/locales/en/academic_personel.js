@@ -16,8 +16,13 @@ export default {
     proedrosTmimatos: "Dean",
     kathigitis: "Professor",
     kathigitria: "Professor",
-    anaplirotisKathigitis: "Deputy Professor",
-    epikouriKathigitria: "Assistant Professor",
-    epikourosKathigitis: "Assistant Professor",
+    Professor: "Professor",
+    AssociateProfessor: "Associate Professor",
+    AssistantProfessor: "Assistant Professor",
+    LaboratoryTeachingStaff: "Laboratory Teaching Staff",
+    SpecialTechnicalStaff: "Special Technical Staff",
+    UniversityScholar: "University Scholar",
+    AcademicScholar: "Academic Scholar",
+    TeachingStafffromotherDepartment: "Teaching Staff from other Departments"
     //TODO
 };

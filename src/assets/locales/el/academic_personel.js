@@ -83,4 +83,12 @@ export default {
     Koutsoudakis: "Κουτσουδάκης",
     Kiklis: "Κύκλης",
     Kostoglou: "Κώστογλου",
+    Professor: "Καθηγητής/Καθηγήτρια",
+    AssociateProfessor: "Αναπληρωτής Καθηγητής/Αναπληρώτρια Καθηγήτρια",
+    AssistantProfessor: "Επίκουρος Καθηγητής/Επίκουρη Καθηγήτρια",
+    LaboratoryTeachingStaff: "ΕΔΙΠ",
+    SpecialTechnicalStaff: "Ειδικό Τεχνικό Προσωπικό",
+    UniversityScholar: "Ακαδημαϊκοί Υπότροφοι",
+    AcademicScholar: "Ακαδημαϊκοί Υπότροφοι",
+    TeachingStafffromotherDepartment: "Διδακτικό προσωπικό από άλλα Τμήματα"
 };
