@@ -6,17 +6,17 @@ export const RESTAURANT_HOURS = {
         minutes: 30,
       },
       end: {
-        hours: 16,
-        minutes: 0,
+        hours: 15,
+        minutes: 30,
       },
     },
     on_weekend: {
       start: {
-        hours: 12,
-        minutes: 30,
+        hours: 13,
+        minutes: 0,
       },
       end: {
-        hours: 16,
+        hours: 15,
         minutes: 0,
       },
     },
@@ -28,40 +28,40 @@ export const RESTAURANT_HOURS = {
         minutes: 0,
       },
       end: {
-        hours: 21,
+        hours: 20,
         minutes: 0,
       },
     },
     on_weekend: {
       start: {
-        hours: 18,
-        minutes: 0,
+        hours: 17,
+        minutes: 30,
       },
       end: {
-        hours: 21,
-        minutes: 0,
+        hours: 19,
+        minutes: 30,
       },
     },
   },
   for_breakfast: {
     on_weekdays: {
       start: {
-        hours: 7,
-        minutes: 30,
+        hours: 8,
+        minutes: 0,
       },
       end: {
         hours: 9,
-        minutes: 30,
+        minutes: 0,
       },
     },
     on_weekend: {
       start: {
-        hours: 7,
-        minutes: 30,
+        hours: 8,
+        minutes: 0,
       },
       end: {
         hours: 9,
-        minutes: 30,
+        minutes: 0,
       },
     },
   },
