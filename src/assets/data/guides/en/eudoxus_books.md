@@ -1,17 +1,17 @@
-# Books from Eudoxus
+# Books by Eudoxus
 
-Visit the [book distribution page 'Eudoxus'](https://service.eudoxus.gr/student/).
+Go to the [Eudoxus book declaration page](https://service.eudoxus.gr/student/).
 
-Select **'University of Macedonia'** and click confirm.
+Select **"International Hellenic University "** & press confirm.
 
-Login with your institutional account.
+Log in with your institutional account.
 
-Click on **'Books Selection'** on the right.
+Go to the right which says **Course Declarations**.
 
-Select the current semester and click on **'Overview'**.
+Select the current semester & click **Review**.
 
-Select the books you are interested in and click on **'Continue'**.
+Select the textbooks you are interested in & press **Continue**.
 
-Lastly, click on **'Final Submission'**.
+Finally, click **Final Submission**.
 
-For further information see the [Student App User Guide](https://eudoxus.gr/files/User_Manual_Students.pdf) for Eudoxus.
+For further information, please refer to the [Student Application User Guide](https://eudoxus.gr/files/User_Manual_Students.pdf) for Eudoxus.

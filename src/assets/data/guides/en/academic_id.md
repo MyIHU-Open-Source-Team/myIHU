@@ -1,27 +1,27 @@
-# Academic ID
+# Academic identity
 
-You can request an academic ID [here](https://academicid.minedu.gov.gr/).
+You can request an academic ID card at [website of the Ministry of Education](https://academicid.minedu.gov.gr/).
 
-Press the **'REGISTER/LOGIN'** button in the top right corner of the screen.
+Click on the **"REGISTER/ENROLL "** button in the top right-hand corner of the screen.
 
-> On mobile devices you must first open the sliding menu on the top left to find the **'REGISTER/LOGIN'** button.
+> On mobile devices you will first need to open the sliding menu in the top left to find the **"REGISTER/ENROLL "** button.
 
-On the login page, select **'Undergraduate Student'** and use the username of your uom.edu.gr email account and the password they provided you with.
+At the login, select **"Undergraduate Student "** and use the username of the academic email and password provided.
 
-On the next screen there is a summary of what will be sent to the service: Academic ID. If you are OK with it, click **'Accept'**. If not, contact the Secretariat.
+The next screen has a summary of what will be sent to the service: Academic ID. If you are OK click **"Accept "**. If not, contact the Registrar's Office.
 
-Read the terms of use and click **'I Accept'**.
+Read the terms and click **"Accept "**.
 
-You will receive a confirmation email. Click on the link in the email to confirm your identity.
+They will send a confirmation message to your email. Click on the link it contains to confirm that you are you.
 
-Next, make sure that your details are correct. In the 'First Registration Date' field, select **October** and then upload your photo for the academic ID.
+Then check your details. For admission month select **"October "** and enter the photo for your academic ID.
 
-Choose the pickup location for the physical copy of the ID.
+Indicate where you would like to pick up your ID card.
 
-Don't forget to click **'Submit'**. When you submit, you will receive a registration number. You should write it down. You will receive an email stating that the request has been successfully submitted.
+Don't forget to **submit**. When you submit you will receive a registration number. It is a good idea to write it down. It will also email that it was received.
 
-You can request the academic ID, that also functions as a discount for public transport.
+You can ask for the academic ID which also serves as a bus pass.
 
-You should also swap your phone number for a student number.
+You can also change your phone number to a student number.
 
-Lastly, you should choose the subjects you want to attend on the [StudentsWeb](https://services.uom.gr/unistudent/login.asp) service.
+Each semester you have to register your courses in the [UniPortal](https://uniportal.ihu.gr/) service. In the first semester, courses are automatically registered for students by the registry.

@@ -42,7 +42,6 @@ import academic_email_activation from "./guides/el/academic_email_activation.md"
 import academic_id from "./guides/el/academic_id.md";
 import eudoxus_books from "./guides/el/eudoxus_books.md";
 import library_registration from "./guides/el/library_registration.md";
-import moodle from "./guides/el/moodle.md";
 import boarding from "./guides/el/boarding.md";
 import housing from "./guides/el/housing.md";
 import healthcare from "./guides/el/healthcare.md";
@@ -54,7 +53,6 @@ import en_academic_email_activation from "./guides/en/academic_email_activation.
 import en_academic_id from "./guides/en/academic_id.md";
 import en_eudoxus_books from "./guides/en/eudoxus_books.md";
 import en_library_registration from "./guides/en/library_registration.md";
-import en_moodle from "./guides/en/moodle.md";
 import en_boarding from "./guides/en/boarding.md";
 import en_housing from "./guides/en/housing.md";
 import en_healthcare from "./guides/en/healthcare.md";
@@ -89,7 +87,6 @@ const guides = {
         text: i18n.t("library_registration_title"),
         guidePath: library_registration,
       },
-      { text: i18n.t("moodle_title"), guidePath: moodle },
       { text: i18n.t("boarding_title"), guidePath: boarding },
       { text: i18n.t("housing_title"), guidePath: housing },
       { text: i18n.t("healthcare_title"), guidePath: healthcare },
@@ -120,9 +117,6 @@ const guides = {
     }, {
       text: i18n.t("library_registration_title"),
       guidePath: en_library_registration,
-    }, {
-      text: i18n.t("moodle_title"),
-      guidePath: en_moodle,
     }, {
       text: i18n.t("boarding_title"),
       guidePath: en_boarding,

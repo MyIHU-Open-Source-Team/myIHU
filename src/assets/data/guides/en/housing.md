@@ -1,11 +1,13 @@
 # Housing
 
-You will find [here](https://www.uom.gr/8577-anakoinosh-stegash-foithton-akad-etoys-2020-2021) an announcement for the academic year 2020-2021.
+Individuals interested in living in the IHU Residence Halls should look for a campus announcement on the [student services announcement list](https://www.ihu.gr/anakoinoseis-foititikis-merimnas) because the process is in transition.
 
-An identity verification is required and afterwards, you can fill in the application.
+In future years, all applications will be made via the relevant [university housing application page](https://stegasi.ihu.gr/). However, it is possible that some IHU campuses may not have adopted the system yet, and may request that documents be sent to an email address.
 
-Below you will find documents and information needed for the application:
+Identification must be done and then apply for a housing card, then a notification will be sent out.
 
-- [Supporting documents for housing application](https://www.uom.gr/assets/site/public/nodes/8577/7731-7697-dikaiologitika-stegasi-new-2020-21.docx)
-- [Solemn declaration](https://www.uom.gr/assets/site/public/nodes/8577/7737-ypefthini-dilosi-estia.doc)
-- [Government gazette for housing](https://www.uom.gr/assets/site/public/nodes/8577/7691-2414-kanonismos-estias-2012-fek.pdf)
+Enter your username and password. 
+
+If you are already logged in, you will be asked for a list of documents, which you can deliver online during the housing registration period.
+
+For the Housing Subsidy, following the respective announcement, you can apply for it on [the Ministry's website](https://stegastiko.minedu.gov.gr/).

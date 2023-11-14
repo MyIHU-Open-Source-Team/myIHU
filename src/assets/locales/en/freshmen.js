@@ -5,7 +5,6 @@ import academic_email_activation from "../../data/guides/en/academic_email_activ
 import academic_id from "../../data/guides/en/academic_id.md";
 import eudoxus_books from "../../data/guides/en/eudoxus_books.md";
 import library_registration from "../../data/guides/en/library_registration.md";
-import moodle from "../../data/guides/en/moodle.md";
 import boarding from "../../data/guides/en/boarding.md";
 import housing from "../../data/guides/en/housing.md";
 import healthcare from "../../data/guides/en/healthcare.md";
@@ -18,7 +17,6 @@ export default {
   academic_id_guide: academic_id,
   eudoxus_books_guide: eudoxus_books,
   library_registration_guide: library_registration,
-  moodle_guide: moodle,
   boarding_guide: boarding,
   housing_guide: housing,
   healthcare_guide: healthcare,
@@ -31,7 +29,6 @@ export default {
   academic_id_title: "Academic ID",
   eudoxus_books_title: "Books from Eudoxus",
   library_registration_title: "Library registration",
-  moodle_title: "Moodle registration",
   boarding_title: "Boarding",
   housing_title: "Housing",
   healthcare_title: "Healthcare",

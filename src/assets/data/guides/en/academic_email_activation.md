@@ -1,5 +1,7 @@
-# Activate academic email
+# Activating your academic email
 
-Click [here](https://myaccount.google.com/?pli=1&nlr=1).
+Visit your campus's webmail platform and log in with the passwords you have received or set.
 
-> **ATTENTION:** If you have logged in to Gmail with your personal account, either log out to enter with the details they gave you, or you can open a private browsing tab to activate it there.
+- [Webmail Sindos](https://webmail.teithe.gr/)
+- [Webmail Thermi](https://students.ihu.edu.gr/ucipslivemail)
+- [Webmail Serres](https://webmail.cm.ihu.gr/)

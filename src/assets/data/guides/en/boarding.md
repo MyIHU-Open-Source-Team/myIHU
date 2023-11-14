@@ -1,16 +1,15 @@
-# Boarding
+# Feeding
 
-For students that reside in Thessaloniki, a boarding card is necessary.
+To eat free of charge at the restaurant, you will also need your meal card.
 
-Firstly, you can find everything you need to know on [the university's website](https://www.uom.gr/student-care/sitish).
+You should look for a campus announcement on [student services announcement list](https://www.ihu.gr/anakoinoseis-foititikis-merimnas) because the process is in transition.
 
-An identity verification is required and afterwards, you can fill in the application for a boarding card, after the relevant announcement.
+In future years, all applications will be made via a relevant [university's food card application page](https://sitisi.ihu.gr/). However, it is possible that some IHU campuses may not have gone into the system, and may request that documents are sent to an email address.
 
-Enter your username and password.
+Identification must be done and then apply for a meal card, then a notification will be sent out.
 
-Below you will find documents and information needed for the application:
+Enter your username and password. 
 
-- [Supporting documents for boarding application](https://www.uom.gr/assets/site/public/nodes/8576/7726-4618-dikaiologitika-sitisi-new-2020-21.docx)
-- [Solemn declaration](https://www.uom.gr/assets/site/public/nodes/8576/7706-ypefthini-dilosi-sitisi-2020-2021.doc)
-- [Government gazette for boarding](https://www.uom.gr/assets/site/public/nodes/8576/7689-2413-fek-1965-18-06-2012-b.pdf)
-- [Income thresholds](https://www.uom.gr/assets/site/public/nodes/8576/7776-7704-3886-oria-sitisis-2020-2021.docx)
+If you are already logged in, you will be asked for a list of documents, which you can deliver online during the period of registration for feeding.
+
+- [Government gazette for university restaurants](https://sitisi.ihu.gr/docs/fek1965.pdf)

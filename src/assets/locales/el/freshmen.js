@@ -5,7 +5,6 @@ import academic_email_activation from "../../data/guides/el/academic_email_activ
 import academic_id from "../../data/guides/el/academic_id.md";
 import eudoxus_books from "../../data/guides/el/eudoxus_books.md";
 import library_registration from "../../data/guides/el/library_registration.md";
-import moodle from "../../data/guides/el/moodle.md";
 import boarding from "../../data/guides/el/boarding.md";
 import housing from "../../data/guides/el/housing.md";
 import healthcare from "../../data/guides/el/healthcare.md";
@@ -18,7 +17,6 @@ export default {
   academic_id_guide: academic_id,
   eudoxus_books_guide: eudoxus_books,
   library_registration_guide: library_registration,
-  moodle_guide: moodle,
   boarding_guide: boarding,
   housing_guide: housing,
   healthcare_guide: healthcare,
@@ -30,7 +28,6 @@ export default {
   academic_id_title: "Ακαδημαϊκή ταυτότητα",
   eudoxus_books_title: "Βιβλία από Εύδοξο",
   library_registration_title: "Εγγραφή στη βιβλιοθήκη",
-  moodle_title: "Εγγραφή στο Moodle",
   boarding_title: "Σίτιση",
   housing_title: "Στέγαση",
   healthcare_title: "Υγειονομική περίθαλψη",
