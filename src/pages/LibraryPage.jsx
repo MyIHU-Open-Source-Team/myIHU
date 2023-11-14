@@ -217,7 +217,7 @@ export default function LibraryPage() {
           </Box>
         }
         onClick={(e) => {
-          window.open("https://www.lib.uom.gr/index.php/el/");
+          window.open("https://www.lib.teithe.gr");
         }}
         justifyContent="center"
       >
