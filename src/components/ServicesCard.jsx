@@ -60,17 +60,9 @@ export default function ServicesCard({ srv }) {
         mb="1rem"
         borderColor={useColorModeValue("#0050e0", "#f3f3f3")}
       >
-        <Image
-          src={srv.imgUrl}
-          width="60px"
-          height="60px"
-          borderRadius="full"
-          marginLeft="25px"
-          marginTop="10px"
-          marginBottom="10px"
-        />
         <Text
           w="100%"
+          h="60px"
           display="flex"
           direction="row"
           alignItems="center"
