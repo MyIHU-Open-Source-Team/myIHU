@@ -8,7 +8,7 @@ export default {
   qa_office: "Μονάδα Διαχείρισης Ποιότητας",
   //constants.js --> Student Teams
   student_clubs: "Σύλλογοι",
-  uom_students_club: "Σύλλογος Φοιτητών ΠΑΜΑΚ",
+  //uom_students_club: "Σύλλογος Φοιτητών ΠΑΜΑΚ",
   erasmus_student_club: "Σύλλογος Φοιτητών Erasmus",
   open_source_club: "Λέσχη Ανοιχτού Λογισμικού",
   //constants.js --> Other Services
@@ -19,6 +19,6 @@ export default {
   student_consulting_support_center:
     "Φοιτητική Μέριμνα",
   theater_workshop: "",
-  uni_publications: "Εκδόσεις Πανεπιστημίου Μακεδονίας",
+  uni_publications: "Εκδόσεις Βιβλιοθήκης ΔΙΠΑΕ",
   autoros_student_club: "Ομάδα AutoROS"
 };
