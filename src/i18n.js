@@ -10,7 +10,9 @@ import enFaq from "./assets/locales/en/faq.js";
 import enProjectMembers from "./assets/locales/en/project_members.js";
 import enSettingsPage from "./assets/locales/en/settings_page.js";
 import enAboutPage from "./assets/locales/en/about_page.js";
+import enMisc from "./assets/locales/en/misc.js";
 
+import elMisc from "./assets/locales/el/misc.js";
 import elRestaurant from "./assets/locales/el/restaurant.js";
 import elFreshmen from "./assets/locales/el/freshmen.js";
 import elLibrary from "./assets/locales/el/library.js";
@@ -35,25 +37,8 @@ const resources = {
       ...enProjectMembers,
       ...enSettingsPage,
       ...enAboutPage,
+      ...enMisc,
       //categories.js
-      current_department: "Current Department: ",
-      close: "Close",
-      eudoxus: "Eudoxus",
-      initial_page: "Home",
-      course_schedule: "Course Schedules",
-      restaurant: "Restaurant",
-      library: "Library",
-      exams_schedule: "Exams Schedule",
-      academic_personnel: "Academic Personnel",
-      map: "Maps",
-      other_services: "Other Services",
-      announcements: "Announcements",
-      orkomosies: "Graduation",
-      foititiki_merimna: "Student Care",
-      freshmen_guides: "Freshmen",
-      faq_title: "Frequently Asked",
-      faq_subtitle: "You will find answers that might be of interest to you.",
-      masters: "Masters",
       // //constants.js --> offices
       // // offices: "Offices",
       // // liaison_office: "Liason Office",
@@ -87,26 +72,9 @@ const resources = {
       ...elProjectMembers,
       ...elSettingsPage,
       ...elAboutPage,
+      ...elMisc,
 
       //categories.js
-      current_department: "Έχεις επιλέξει: ",
-      close: "Κλείσιμο",
-      eudoxus: "Εύδοξος",
-      initial_page: "Αρχική",
-      course_schedule: "Πρόγραμμα Μαθημάτων",
-      restaurant: "Εστιατόριο",
-      library: "Βιβλιοθήκη",
-      exams_schedule: "Πρόγραμμα Εξετάσεων",
-      academic_personnel: "Ακαδημαϊκό Προσωπικό",
-      map: "Χάρτης",
-      other_services: "Υπόλοιπες Υπηρεσίες",
-      announcements: "Ανακοινώσεις",
-      orkomosies: "Ορκομωσίες",
-      foititiki_merimna: "Φοιτητική Μέριμνα",
-      freshmen_guides: "Πρωτοετείς",
-      faq_title: "Συχνές Ερωτήσεις",
-      faq_subtitle: "Εδώ θα βρείτε απαντήσεις σε ερωτήσεις που ενδέχεται να σας ενδιαφέρουν.",
-      masters: "Μεταπτυχιακά"
       //constants.js
       // offices: "Γραφεία",
       // liaison_office: "Γραφείο Διασύνδεσης",

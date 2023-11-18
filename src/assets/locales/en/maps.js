@@ -70,6 +70,7 @@ export default {
   depname_ba: "Business Administration",
   select_where_to_go: "What are you looking for?",
   //dont like this
+  // ^----- Nov. 2023 Update: I don't like this either, dear George.
   select_location: "Select location",
   virtual_tour: "Virtual Tour",
   cant_find_building_prompt: "Don't know where the building is?",
