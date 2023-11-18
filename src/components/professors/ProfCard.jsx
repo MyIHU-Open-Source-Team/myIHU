@@ -109,6 +109,17 @@ export default function ProfCard({ prof }) {
             >
               {prof.fname} {prof.lname}
             </Text>
+            <Text
+              w="100%"
+              display="flex"
+              direction="row"
+              alignItems="center"
+              justifyContent="start"
+              fontWeight="thin"
+              fontSize={{ sm: 12, md: 14, lg: 16 }}
+            >
+              {prof.title}
+              </Text>
             <AccordionIcon />
           </AccordionButton>
         </Flex>
