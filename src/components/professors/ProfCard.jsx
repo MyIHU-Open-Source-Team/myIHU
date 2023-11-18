@@ -125,12 +125,6 @@ export default function ProfCard({ prof }) {
         </Flex>
         <AccordionPanel bgColor="transparent" pb={5} textAlign="center">
           <Flex direction="column" alignItems="start" fontFamily="Syne">
-            <Text as="span" fontWeight="bold">
-              {t("title")}&nbsp;
-              <Text fontWeight="normal" as="span">
-                {prof.title}
-              </Text>
-            </Text>
 
             <Text as="span" fontWeight="bold">
             {i18n.t("tilefono")}&nbsp;
