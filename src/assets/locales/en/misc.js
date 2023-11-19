@@ -4,7 +4,7 @@ export default {
     current_department: "Current Department: ",
     close: "Close",
     eudoxus: "Eudoxus",
-    initial_page: "Home",
+    initial_page: "Home (***CURRENTLY IN DEVELOPMENT***)",
     course_schedule: "Course Schedules",
     restaurant: "Restaurant",
     library: "Library",

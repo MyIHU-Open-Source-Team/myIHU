@@ -4,7 +4,7 @@ export default {
     current_department: "Έχεις επιλέξει: ",
     close: "Κλείσιμο",
     eudoxus: "Εύδοξος",
-    initial_page: "Αρχική",
+    initial_page: "Αρχική (***ΣΕΛΙΔΑ ΥΠΟ ΑΝΑΠΤΥΞΗ***)",
     course_schedule: "Πρόγραμμα Μαθημάτων",
     restaurant: "Εστιατόριο",
     library: "Βιβλιοθήκη",
